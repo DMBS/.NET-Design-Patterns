@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\bin\Debug\GeneratorThroughIterator.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\bin\Debug\GeneratorThroughIterator.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\bin\Debug\GeneratorThroughIterator.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\obj\Debug\GeneratorThroughIterator.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\obj\Debug\GeneratorThroughIterator.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\obj\Debug\GeneratorThroughIterator.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Iterator\GeneratorThroughIterator\GeneratorThroughIterator\obj\Debug\GeneratorThroughIterator.csprojAssemblyReference.cache

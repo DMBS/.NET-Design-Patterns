@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\bin\Debug\LazySingleton.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\bin\Debug\LazySingleton.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\bin\Debug\LazySingleton.pdb
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\obj\Debug\LazySingleton.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\obj\Debug\LazySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\obj\Debug\LazySingleton.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\LazySingleton\LazySingleton\obj\Debug\LazySingleton.pdb

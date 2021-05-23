@@ -1,0 +1,6 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\bin\Debug\CookingStrategy.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\bin\Debug\CookingStrategy.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\bin\Debug\CookingStrategy.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\obj\Debug\CookingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\obj\Debug\CookingStrategy.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\CookingStrategy\CookingStrategy\obj\Debug\CookingStrategy.pdb

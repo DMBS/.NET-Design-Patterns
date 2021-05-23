@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Snigirev\Desktop\Patterns\Structural\Adapter\Adapter\Adapter\obj\Debug\Adapter.pdb

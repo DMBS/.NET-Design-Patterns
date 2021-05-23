@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Observer\Observer\Observer\obj\Debug\Observer.pdb

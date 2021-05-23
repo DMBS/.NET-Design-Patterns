@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\bin\Debug\AF.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\bin\Debug\AF.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\bin\Debug\AF.pdb
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\obj\Debug\AF.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\obj\Debug\AF.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\obj\Debug\AF.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\AbstractFactory\AF\AF\obj\Debug\AF.pdb

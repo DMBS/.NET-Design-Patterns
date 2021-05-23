@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\bin\Debug\Composite.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\bin\Debug\Composite.exe
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\bin\Debug\Composite.pdb
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\obj\Debug\Composite.exe
+C:\Users\Snigirev\Desktop\Patterns\Structural\Composite\Composite\Composite\obj\Debug\Composite.pdb

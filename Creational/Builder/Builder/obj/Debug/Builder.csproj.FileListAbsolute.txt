@@ -1,0 +1,6 @@
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Builder\Builder\Builder\obj\Debug\Builder.pdb

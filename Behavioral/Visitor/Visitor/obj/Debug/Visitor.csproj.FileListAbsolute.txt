@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\bin\Debug\Visitor.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\obj\Debug\Visitor.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Visitor\Visitor\Visitor\obj\Debug\Visitor.pdb

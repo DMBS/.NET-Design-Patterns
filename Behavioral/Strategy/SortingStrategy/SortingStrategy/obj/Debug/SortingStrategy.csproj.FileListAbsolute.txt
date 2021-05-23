@@ -1,0 +1,6 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\bin\Debug\SortingStrategy.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\obj\Debug\SortingStrategy.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\obj\Debug\SortingStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\obj\Debug\SortingStrategy.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\bin\Debug\SortingStrategy.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\SortingStrategy\SortingStrategy\SortingStrategy\obj\Debug\SortingStrategy.exe

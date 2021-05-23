@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\obj\Debug\CreateDocuments.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\obj\Debug\CreateDocuments.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\bin\Debug\CreateDocuments.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\bin\Debug\CreateDocuments.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\bin\Debug\CreateDocuments.pdb
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\obj\Debug\CreateDocuments.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\FactoryMethod\CreateDocuments\CreateDocuments\obj\Debug\CreateDocuments.pdb

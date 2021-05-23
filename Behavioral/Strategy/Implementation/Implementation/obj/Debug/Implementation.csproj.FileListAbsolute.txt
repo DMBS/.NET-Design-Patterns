@@ -1,0 +1,13 @@
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\bin\Debug\Implementation.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\bin\Debug\Implementation.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\bin\Debug\Implementation.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\obj\Debug\Implementation.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavior\Strategy\Implementation\Implementation\obj\Debug\Implementation.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\bin\Debug\Implementation.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\bin\Debug\Implementation.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\bin\Debug\Implementation.pdb
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\obj\Debug\Implementation.exe
+C:\Users\Snigirev\Desktop\Patterns\Behavioral\Strategy\Implementation\Implementation\obj\Debug\Implementation.pdb

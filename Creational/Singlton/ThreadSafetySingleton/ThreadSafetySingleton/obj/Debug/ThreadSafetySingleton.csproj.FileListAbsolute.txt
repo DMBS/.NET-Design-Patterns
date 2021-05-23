@@ -1,0 +1,7 @@
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\bin\Debug\ThreadSafetySingleton.exe.config
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\bin\Debug\ThreadSafetySingleton.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\bin\Debug\ThreadSafetySingleton.pdb
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\obj\Debug\ThreadSafetySingleton.csprojAssemblyReference.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\obj\Debug\ThreadSafetySingleton.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\obj\Debug\ThreadSafetySingleton.exe
+C:\Users\Snigirev\Desktop\Patterns\Creational\Singlton\ThreadSafetySingleton\ThreadSafetySingleton\obj\Debug\ThreadSafetySingleton.pdb
