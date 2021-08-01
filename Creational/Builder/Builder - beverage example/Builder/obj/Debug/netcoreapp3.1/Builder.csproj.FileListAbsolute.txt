@@ -1,0 +1,13 @@
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.AssemblyReference.cache
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Snigirev\source\repos\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\Snigirev\source\repos\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
